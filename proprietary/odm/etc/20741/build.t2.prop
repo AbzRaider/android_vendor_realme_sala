@@ -1,0 +1,44 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=SP1A.210812.016
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX2156
+ro.product.name=RMX2156T2
+ro.product.device=RMX2156L1
+ro.product.first_api_level=29
+ro.board.first_api_level=30
+ro.build.version.incremental=Q.eccc7f-38533
+ro.build.version.release=12
+ro.build.fingerprint=realme/RMX2156T2/RMX2156L1:12/SP1A.210812.016/Q.eccc7f-38533:user/release-keys
+ro.odm.build.fingerprint=realme/RMX2156T2/RMX2156L1:12/SP1A.210812.016/Q.eccc7f-38533:user/release-keys
+ro.odm.build.version.incremental=Q.eccc7f-38533
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX2156
+ro.product.odm.device=RMX2156L1
+ro.product.odm.name=RMX2156T2
+ro.odm.build.date=Mon Feb 27 19:58:42 CST 2023
+ro.odm.build.date.utc=1677499122
+ro.bootimage.build.fingerprint=realme/RMX2156T2/RMX2156L1:12/SP1A.210812.016/Q.eccc7f-38533:user/release-keys
+ro.bootimage.build.version.incremental=Q.eccc7f-38533
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX2156
+ro.product.bootimage.device=RMX2156L1
+ro.product.bootimage.name=RMX2156T2
+ro.bootimage.build.date=Mon Feb 27 19:58:42 CST 2023
+ro.bootimage.build.date.utc=1677499122
+ro.vendor.build.fingerprint=realme/RMX2156T2/RMX2156L1:12/SP1A.210812.016/Q.eccc7f-38533:user/release-keys
+ro.vendor.build.version.incremental=Q.eccc7f-38533
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX2156
+ro.product.vendor.device=RMX2156L1
+ro.product.vendor.name=RMX2156T2
+ro.vendor.build.date=Mon Feb 27 19:58:42 CST 2023
+ro.vendor.build.date.utc=1677499122
+
+# OPPO
